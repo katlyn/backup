@@ -19,5 +19,5 @@ or similar to run as often as you'd like.
 ## Available environment variables
 - `BACKUP_ROOT` - location to look for input directories. Defaults to `/backup`.
 - `BACKUP_OUT` - where to output compressed files. Defaults to `/out`.
-- `AGUMENTS` - Additional arguments to pass to `tar`. Useful for `--excludes` or
-similar.
+- `ARGUMENTS` - Additional arguments to pass to `tar`. Useful for `--excludes`
+or similar.
